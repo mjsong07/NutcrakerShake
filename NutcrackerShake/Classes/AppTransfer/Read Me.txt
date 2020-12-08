@@ -1,0 +1,21 @@
+需要添加库
+SystemConfiguration.framework
+
+#import "ATAppTransferManager.h"
+
+AppDelegate didFinishLaunchingWithOptions 中添加初始化
+[ATAppTransferManager setAppId:@"appId"];
+
+Info.plist中添加:
+<key>URL types</key>
+<array>
+    <dict>
+        <key>URL Schemes</key>
+        <array>
+            <string>AT + appId</string>   // 如AT12345
+        </array>
+    </dict>
+</array>
+用于判断有按装此程序则直接打开
+
+ps: appId为当前程序的appId

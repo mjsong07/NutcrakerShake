@@ -1,0 +1,22 @@
+#import "ShareManager.h"
+
+AppDelegate didFinishLaunchingWithOptions 中添加初始化
+[ShareManager setWXApiKey:@"wxkey"];
+
+Info.plist中添加:
+<key>URL types</key>
+<array>
+    <dict>
+        <key>Document Role</key>
+        <string>Editor</string>
+        <key>URL identifier</key>
+        <string>weixin</string>
+        <key>URL Schemes</key>
+        <array>
+            <string>wxkey</string>
+        </array>
+    </dict>
+</array>
+
+ps:
+wxkey为微信开放平台注册app的key

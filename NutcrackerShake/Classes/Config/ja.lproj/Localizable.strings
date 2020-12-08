@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  NutcrackerShake
+
+  Created by jason yang on 14-4-10.
+  Copyright (c) 2014年 sox. All rights reserved.
+*/
+"GameName"="くるみ割り人形";
+"Loading"="ロード中...";
+"LoadingTip"="押し続けるとスピードを上げる...";
+"Score"="スコア:";
+"Best"="ベスト:";
+"Warning"="警告";
+"Info"="情報";
+"Error"="エラー";
+"Confirm"="確認";
+"NoInternet"="ネットワーク接続しない!";
+"NoSetAccount"="社交アカウント未設定!";
+"RankGame"="ランクゲーム?";
+"shareContent"="私はゲームをくるみ割り人形!";
+"shareScoreContent"="私は";
+"shareScoreContentBy"="点を獲得したゲームくるみ割り人形";
+"Yes"="はい";
+"No"="次回";
+

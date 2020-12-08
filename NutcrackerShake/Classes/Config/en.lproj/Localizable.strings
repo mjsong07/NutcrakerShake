@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  NutcrackerShake
+
+  Created by jason yang on 14-4-10.
+  Copyright (c) 2014年 sox. All rights reserved.
+*/
+"GameName"="Nutcracker Shake";
+"Loading"="Loading...";
+"LoadingTip"="By pressing screen \n to accelerate the speed...";
+"Score"="Score:";
+"Best"="Best:";
+"Warning"="Warning";
+"Info"="Info";
+"Error"="Error";
+"Confirm"="Confirm";
+"NoInternet"="No internet connection!";
+"NoSetAccount"="No set Share Account!";
+"RankGame"="Do you want to rank the NutCracker?";
+"shareContent"="I playing the Game!";
+"shareScoreContent"="I won";
+"shareScoreContentBy"="points in the NutCracker Game";
+"Yes"="Yes";
+"No"="No";
+

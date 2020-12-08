@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Sound</key>
+	<array>
+		<string>begin_fall.wav</string>
+		<string>bg.mp3</string>
+		<string>btn.caf</string>
+		<string>click.mp3</string>
+		<string>fall.mp3</string>
+		<string>hurt.mp3</string>
+		<string>pop_up.wav</string>
+		<string>pull_down.wav</string>
+		<string>revival.mp3</string>
+		<string>score.wav</string>
+		<string>star.mp3</string>
+		<string>zoom.caf</string>
+	</array>
+	<key>Image</key>
+	<array>
+		<string>bg_black.png</string>
+		<string>bg_white.png</string>
+		<string>earth_all.png</string>
+		<string>earth.png</string>
+		<string>game_help.png</string>
+		<string>h1.png</string>
+		<string>h2.png</string>
+		<string>h3.png</string>
+		<string>h4.png</string>
+		<string>hero_bump_circle.png</string>
+		<string>loading_img.png</string>
+		<string>menu_dialog.png</string>
+		<string>menu_gamecenter.png</string>
+		<string>menu_music_stop.png</string>
+		<string>menu_music.png</string>
+		<string>menu_share.png</string>
+		<string>menu_start.png</string>
+		<string>moon.png</string>
+		<string>progressbar.png</string>
+		<string>sun.png</string>
+	</array>
+	<key>Plist</key>
+	<array>
+		<string>hero.plist</string>
+		<string>thing.plist</string>
+	</array>
+</dict>
+</plist>
